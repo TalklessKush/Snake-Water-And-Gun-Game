@@ -1,9 +1,5 @@
 # Made by Kush(TalklessKush) 
 
-#Challenge - We all have played snake, water gun game in our childhood. If you haven't, google the rules of this game and write a Python program capable of playing this game with the user
-
-#Code - 
-
 import random #Importing Random Module
 def game(comp, you):
 	#If Two Values Are Equal, declare a tie!
